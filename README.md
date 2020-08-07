@@ -34,6 +34,8 @@
 - [Managing Text Fields and Text Views](https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/ManageTextFieldTextViews/ManageTextFieldTextViews.html#//apple_ref/doc/uid/TP40009542-CH10-SW1)
 - [Custom Views for Data Input](https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/InputViews/InputViews.html#//apple_ref/doc/uid/TP40009542-CH12)
 
+- [Core Text Tutorial for iOS: Making a Magazine App](https://www.raywenderlich.com/578-core-text-tutorial-for-ios-making-a-magazine-app)
+
 
 ## iOS app 的設計理念
 - [View Controllers and Navigation-Based Apps](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/TableView_iPhone/TableViewAndDataModel/TableViewAndDataModel.html#//apple_ref/doc/uid/TP40007451-CH5-SW7)
