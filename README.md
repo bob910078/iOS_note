@@ -39,6 +39,9 @@
     - an unambiguous paragraph separator, U+2029 (for which Cocoa provides the constant NSParagraphSeparatorCharacter), 
     - an unambiguous line separator, U+2028 (for which Cocoa provides the constant NSLineSeparatorCharacter).
   - Some older Macintosh software recognizes only `\r`, and some Windows software recognizes only `\r\n`.
+- [Text Programming Guide for iOS / Using Text Kit to Draw and Manage Text](https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/CustomTextProcessing/CustomTextProcessing.html)
+- [Text Layout Programming Guide / Calculating Text Height](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/TextLayout/Tasks/StringHeight.html#//apple_ref/doc/uid/20001809-CJBGBIBB)
+
 
 
 ## iOS app 的設計理念
@@ -47,5 +50,16 @@
 - [Auto Layout Guide: Working with Scroll Views](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithScrollViews.html#//apple_ref/doc/uid/TP40010853-CH24-SW1)
 - [View and Window Architecture](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/WindowsandViews/WindowsandViews.html#//apple_ref/doc/uid/TP40009503-CH2-SW1)
 - [Determine Why Your App Launched](https://developer.apple.com/documentation/uikit/app_and_environment/responding_to_the_launch_of_your_app#2922740)
+- [💾 UIKit Catalog: Creating and Customizing Views and Controls](https://developer.apple.com/documentation/uikit/views_and_controls/uikit_catalog_creating_and_customizing_views_and_controls)
+- [💾 Autosizing Views for Localization in iOS](https://developer.apple.com/documentation/xcode/autosizing_views_for_localization_in_ios)
+- [Cocoa Core Competencies](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ControllerObject.html) （蘋果官方解釋MVC的文件！！！）
+- [View Controller Programming Guide for iOS (Legacy)](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewControllerPGforiOSLegacy/BasicViewControllers/BasicViewControllers.html#//apple_ref/doc/uid/TP40011381-CH101-SW1)
+- [View Controller Programming Guide for iOS](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)
+
+
+## iOS app 渲染畫面概念
+
+- [Drawing and Printing Guide for iOS / iOS Drawing Concepts](https://developer.apple.com/library/archive/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/GraphicsDrawingOverview/GraphicsDrawingOverview.html#//apple_ref/doc/uid/TP40010156-CH14-SW3)
+- UIGraphicsBeginImageContextWithOptions
 
 
