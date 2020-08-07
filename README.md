@@ -33,8 +33,12 @@
 - [Cocoa Text Architecture Guide](https://developer.apple.com/library/archive/documentation/TextFonts/Conceptual/CocoaTextArchitecture/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009459)
 - [Managing Text Fields and Text Views](https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/ManageTextFieldTextViews/ManageTextFieldTextViews.html#//apple_ref/doc/uid/TP40009542-CH10-SW1)
 - [Custom Views for Data Input](https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/InputViews/InputViews.html#//apple_ref/doc/uid/TP40009542-CH12)
-
 - [Core Text Tutorial for iOS: Making a Magazine App](https://www.raywenderlich.com/578-core-text-tutorial-for-ios-making-a-magazine-app)
+- [String Programming Guide / Words, Paragraphs, and Line Breaks](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Strings/Articles/stringsParagraphBreaks.html#//apple_ref/doc/uid/TP40005016-SW1)
+  - Unicode defines:
+    - an unambiguous paragraph separator, U+2029 (for which Cocoa provides the constant NSParagraphSeparatorCharacter), 
+    - an unambiguous line separator, U+2028 (for which Cocoa provides the constant NSLineSeparatorCharacter).
+  - Some older Macintosh software recognizes only `\r`, and some Windows software recognizes only `\r\n`.
 
 
 ## iOS app 的設計理念
