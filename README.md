@@ -71,4 +71,5 @@
 - showingDeleteConfirmation
 - preservesSuperviewLayoutMargins
 - systemLayoutSizeFitting
+- NSUserActivity
 
