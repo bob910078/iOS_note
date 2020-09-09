@@ -1,9 +1,9 @@
 ## [測試] 什麼是SUT與DOC，什麼是Test Double
 
-SUT(System Under Test) 是指測試目標，就是要被測試的對象。
+https://matthung0807.blogspot.com/2018/03/sutdoc.html
 
-DOC(Depended-on Component)，指的是SUT所依賴的程式或物件。
-
+- SUT(System Under Test) 是指測試目標，就是要被測試的對象。
+- DOC(Depended-on Component)，指的是SUT所依賴的程式或物件。
 
 例如要測試的類別為`UserService`，則`UserService`就是SUT；而`UserService`的方法中可能會用到（依賴）`UserDao`，則`UserDao`就是DOC。
 
