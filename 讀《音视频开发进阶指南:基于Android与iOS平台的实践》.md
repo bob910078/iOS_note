@@ -20,6 +20,10 @@
 
 ## 貳、移動端環境搭建
 
+- 2.1 圖文夾雜，帶你在 Xcode 開新的 iOS 專案，混用 objective-C 與 C++、cocoaPods 使用第三方 'Mantle', 'AFNetworking'
+- 2.2 一樣的步驟，但是是開 Android 專案。因為我對 Android 不熟，就直接跳過不看了
+- 2.3 交叉編譯的原理與實踐
+
 ## 參、FFmpeg的介紹與使用
 
 ## 肆、移動平台下的音視頻渲染
