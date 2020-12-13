@@ -23,6 +23,12 @@
 - 2.1 圖文夾雜，帶你在 Xcode 開新的 iOS 專案，混用 objective-C 與 C++、cocoaPods 使用第三方 'Mantle', 'AFNetworking'
 - 2.2 一樣的步驟，但是是開 Android 專案。因為我對 Android 不熟，就直接跳過不看了
 - 2.3 交叉編譯的原理與實踐
+  - 透過 PC 可以編譯出 Android 程式、也可以編譯出 iOS 程式等非本平台的程式，叫做交叉編譯
+  - 簡單介紹編譯流程：CC, AS, AR, LD, GDB, STRIP, NM, Objdump
+  - 教了三個後面會需要使用的函式庫如何編譯的指令
+    - LAME：MP3 的編碼引擎
+    - FDK_ACC：負責 ACC 的編碼與解碼
+    - X264：H.264 / MPEG-4 的影片編碼函式庫
 
 ## 參、FFmpeg的介紹與使用
 
