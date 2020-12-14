@@ -31,3 +31,29 @@
 22. Objective-C高级编程:iOS与OS X多线程和内存管理
 23. 腾讯iOS测试实践
 24. iOS Auto Layout开发秘籍(第2版)
+25. ObjC 中国 / SwiftUI 与 Combine 编程
+26. ObjC 中国 / Swifter - Swift 开发者必备 Tips
+27. ObjC 中国 / SwiftUI 编程思想
+28. ObjC 中国 / 函数式 Swift
+29. ObjC 中国 / Core Data
+30. ObjC 中国 / Swift 进阶
+31. ObjC 中国 / 集合类型优化
+32. ObjC 中国 / App 架构
+33. Raywenderlich / UIKit Apprentice
+34. Raywenderlich / iOS Animations by Tutorials
+35. Raywenderlich / Design Patterns by Tutorials
+36. Raywenderlich / RxSwift: Reactive Programming with Swift
+37. Raywenderlich / iOS Test-Driven Development by Tutorials
+38. Raywenderlich / Advanced iOS App Architecture
+39. Raywenderlich / Advanced Apple Debugging & Reverse Engineering
+40. Raywenderlich / Push Notifications by Tutorials
+41. Raywenderlich / SwiftUI by Tutorials
+42. Raywenderlich / Combine: Asynchronous Programming with Swift
+43. Raywenderlich / Catalyst by Tutorials
+44. HackingWithSwift / Testing Swift 
+45. HackingWithSwift / Design Pattern
+46. HackingWithSwift / SwiftUI by Example
+47. HackingWithSwift / Pro Swift 
+48. HackingWithSwift / Coding Challenges
+49. HackingWithSwift / Beyond Code
+50. HackingWithSwift / Objective-C for Swift Developerts
