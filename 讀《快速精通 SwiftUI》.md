@@ -24,3 +24,13 @@
 21. JSON + Slider = DataFilter
 
 
+- SwiftUI 中，Color 也是一種視圖 (p.40)
+- .frame(minWidth: 0, maxWidth: .infinity) 可以設定視圖大小約束 (p.54)
+- 水平方向若有兩個 .infinity 則會等寬分佈 (p.55)
+- modifier 是有順序性的，例如「padding 放在 background 之後」與倒序則會有不同的效果 (p.91)
+- @Binding 可做為依賴另一個變數的狀態屬性，且該變數可雙向 get/set 該屬性 (p.115)
+- 「自訂返回按鈕」 (p.188)
+- 用戶與程式互動的狀況可以使用時間軸表示，每一個互動產生的事件都是在軸上的一個值。Reactive 的精神在於處理這些值，當然 Combine 也是 (p.253)
+- Combine 的使用範例，以監聽 textField 事件為例子說明「如何處理 streaming event」 (p.254)
+
+
