@@ -33,7 +33,7 @@
 04. Objective-C高级编程:iOS与OS X多线程和内存管理
 05. 腾讯iOS测试实践
 06. iOS Auto Layout开发秘籍(第2版)
-07. 快速精通 SwiftUI
+07. [快速精通 SwiftUI](./讀《快速精通 SwiftUI》.md)
 
 ### ObjC 中国
 01. SwiftUI 与 Combine 编程
