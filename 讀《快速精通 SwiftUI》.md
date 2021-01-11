@@ -33,7 +33,7 @@
 - 用戶與程式互動的狀況可以使用時間軸表示，每一個互動產生的事件都是在軸上的一個值。Reactive 的精神在於處理這些值，當然 Combine 也是 (p.253)
 - Combine 的使用範例，以監聽 textField 事件為例子說明「如何處理 streaming event」 (p.254)
 
-### 自定義形狀
+### 自定義形狀 (p.131)
 ![](./Screen%20Shot%20SwiftUI%20shape.png?raw=true)
 ```swift
 struct DemoShape: Shape {
