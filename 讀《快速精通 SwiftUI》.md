@@ -34,7 +34,7 @@
 - Combine 的使用範例，以監聽 textField 事件為例子說明「如何處理 streaming event」 (p.254)
 
 ### 自定義形狀
-![](https://imgur.com/0lCwyGi)
+![](./Screen%20Shot%20SwiftUI%20shape.png?raw=true)
 ```swift
 struct DemoShape: Shape {
     func path(in rect: CGRect) -> Path {
