@@ -33,4 +33,26 @@
 - 用戶與程式互動的狀況可以使用時間軸表示，每一個互動產生的事件都是在軸上的一個值。Reactive 的精神在於處理這些值，當然 Combine 也是 (p.253)
 - Combine 的使用範例，以監聽 textField 事件為例子說明「如何處理 streaming event」 (p.254)
 
-
+### 自定義形狀
+![](https://imgur.com/0lCwyGi)
+```swift
+struct DemoShape: Shape {
+    func path(in rect: CGRect) -> Path {
+        var path = Path()
+        let topL = CGPoint(x: rect.minX, y: rect.minY)
+        let topR = CGPoint(x: rect.maxX, y: rect.minY)
+        path.move(to: topL)
+        path.addQuadCurve(to: topR, control: CGPoint(x: rect.width/2, y: -(rect.width*0.1)))
+        path.addRect(CGRect(origin: topL, size: rect.size))
+        return path
+    }
+}
+```
+對某一個 View 套用即可呈現我們自定義的形狀
+```swift
+Text("測試說明文字")
+  .background(
+    DemoShape()
+      .fill(Color.red)
+  )
+```
